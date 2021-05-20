@@ -1,8 +1,8 @@
-# Mathematics of Big Data Spring 2020
+# Mathematics of Big Data Spring 2021
 
 Taught by Professor Weiqing Gu
 
-This page is created for the Nonlinear Data Analytics course Summer 2020.
+This page is created for the Nonlinear Data Analytics course Summer 2021.
 
 # References:
 
